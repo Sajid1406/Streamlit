@@ -1,2 +1,2 @@
 # Project #
-## This is streamlit repository ##
+## This is streamlit repository about food order system ##
